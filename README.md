@@ -74,6 +74,8 @@ pip install pandas numpy matplotlib scipy scikit-learn h5py pysindy
 
 ## Data Files Required
 
+Available at: https://www.ll.mit.edu/r-d/datasets/unmanned-aircraft-terminal-area-encounters
+
 | File | Description |
 |------|-------------|
 | `terminal_encounter_state_data_20200630.zip` | 2M trajectory CSVs (ownship + intruder) |
