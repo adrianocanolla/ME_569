@@ -6,7 +6,7 @@ Sparse Identification of Nonlinear Dynamics (SINDy) applied to the MIT Lincoln L
 
 ## Research Objective
 
-Discover interpretable governing equations for aircraft conflict dynamics in terminal airspace using the SINDy framework. The identified equations are intended to characterize the kinematics of well-clear violations (DO-365A / ACAS Xu thresholds) and inform conflict resolution logic for unmanned ownships on straight-in IFR approaches.
+Discover interpretable governing equations for aircraft conflict dynamics in terminal airspace using the SINDy framework. The identified equations are intended to characterize the kinematics of well-clear violations (DO-365C) and inform conflict resolution logic for unmanned ownships on straight-in IFR approaches.
 
 ---
 
